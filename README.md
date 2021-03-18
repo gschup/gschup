@@ -8,6 +8,6 @@ My Research
 I apply methods from *Formal Verification* to the domain of *Multi-Robot Systems* by synthesizing correct-by-design strategies over *Linear Time Logic* specifications in a scalable manner. Strategy negotation through assumption exchange between agents, but also between agents and humans are the overarching theme of my work.
 
 Private Interests
-======
+------
 
 In my free time, I enjoy to play and study the game of [Go](https://en.wikipedia.org/wiki/Go_(game)) and dabble in arcade fighting games. Some repositories might be related to these topics!
