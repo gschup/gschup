@@ -10,4 +10,4 @@ I apply methods from *Formal Verification* to the domain of *Multi-Robot Systems
 Private Interests
 ------
 
-In my free time, I enjoy to play and study the game of [Go](https://en.wikipedia.org/wiki/Go_(game)) and dabble in arcade fighting games. Some repositories might be related to these topics!
+In my free time, I enjoy to play and study the game of [Go](https://en.wikipedia.org/wiki/Go_(game)) and dabble in [Rust](https://www.rust-lang.org/). Some repositories might be related to these topics!
