@@ -8,8 +8,8 @@ I apply methods from *Formal Verification* to the domain of *Multi-Robot Systems
 Publications
 ------
 
-- **G. F. Schuppe** and J. Tumova, "Multi-Agent Strategy Synthesis for LTL Specifications through Assumption Composition," 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE), [[doi]](https://www.doi.org/10.1109/CASE48305.2020.9216991)
-- **G. F. Schuppe** and J. Tumova, "Decentralized Multi-Agent Strategy Synthesis under LTLf Specifications via Exchange of Least-Limiting Advisers," 2021 International Symposium on Multi-Robot and Multi-Agent Systems (MRS), (to be published)
+- **G. F. Schuppe** and J. Tumova, "Multi-Agent Strategy Synthesis for LTL Specifications through Assumption Composition," 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE), [[doi]](https://www.doi.org/10.1109/CASE48305.2020.9216991) [[pdf]](./publications/CASE2020_compsynth.pdf)
+- **G. F. Schuppe** and J. Tumova, "Decentralized Multi-Agent Strategy Synthesis under LTLf Specifications via Exchange of Least-Limiting Advisers," 2021 International Symposium on Multi-Robot and Multi-Agent Systems (MRS), (to be published) [[pdf]](./publications/MRS2021_least_limiting_advisers.pdf)
   - Nominated for **Best Student Paper Finalist**
 - C. Pek*, **G. F. Schuppe***, F. Esposito, J. Tumova, and D. Kragic, "SpaTiaL: Monitoring and Planning of Robotic Tasks Using Spatio-Temporal Logic Specifications," (under review)
 
