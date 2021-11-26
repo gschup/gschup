@@ -15,6 +15,11 @@ Publications
 
 *The authors contributed equally to this work
 
+Posters
+------
+
+- "Decentralized Multi-Agent Strategy Synthesis via Exchange of Least-Limiting Advisers," presented at MRS 2021, [pdf](./posters/MRS_2021.pdf)
+
 Links
 ======
 
