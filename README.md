@@ -1,6 +1,6 @@
 I am a PhD student at the [KTH Royal Institute of Technology](https://www.kth.se/) in the [Division of Robotics, Perception and Learning](https://www.kth.se/is/rpl) under supervision by [Jana Tumova](https://people.kth.se/~tumova/home.html). I am also an affiliated PhD student in the [WASP program](https://wasp-sweden.org/).
 
-See [my page](https://gschup.github.io/)!
+[Google Scholar](https://scholar.google.com/citations?user=fHzH7PgAAAAJ)
 
 My Research
 ======
