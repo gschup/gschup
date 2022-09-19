@@ -10,10 +10,11 @@ I apply methods from *Formal Verification* to the domain of *Multi-Robot Systems
 - **G. F. Schuppe** and J. Tumova, "Decentralized Multi-Agent Strategy Synthesis under LTLf Specifications via Exchange of Least-Limiting Advisers," 2021 International Symposium on Multi-Robot and Multi-Agent Systems (MRS), [[doi]](https://doi.org/10.1109/MRS50823.2021.9620561) [[pdf]](./publications/MRS2021_least_limiting_advisers.pdf)[^1]
   - Nominated for **Best Student Paper Finalist**
 - C. Pek*, **G. F. Schuppe***, F. Esposito, J. Tumova, and D. Kragic, "SpaTiaL: Monitoring and Planning of Robotic Tasks Using Spatio-Temporal Logic Specifications," (under review)
+- W. Wang, **G. F. Schuppe** and J. Tumova, "Decentralized Multi-agent Coordination under MITL Tasks and Communication Constraints," 2022 ACM/IEEE 13th International Conference on Cyber-Physical Systems (ICCPS), [[doi]](https://doi.org/10.1109/ICCPS54341.2022.00051) [[pdf]](./publications/MITL_decentralized.pdf)[^1]
 
 *The authors contributed equally to this work
 
-[^1]: © 2021 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
+[^1]: © 2022 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 
 ## Academic Awards
 
