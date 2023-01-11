@@ -14,8 +14,6 @@ I apply methods from *Formal Verification* to the domain of *Multi-Robot Systems
 
 *The authors contributed equally to this work
 
-Christian Pek, Georg Friedrich Schuppe, Francesco Esposito et al. SpaTiaL: Monitoring and Planning of Robotic Tasks Using Spatio-Temporal Logic Specifications, 08 January 2023, 
-
 [^1]: © 2022 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 
 ## Academic Awards
