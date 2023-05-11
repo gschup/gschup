@@ -9,8 +9,8 @@ I apply methods from *Formal Verification* to the domain of *Multi-Robot Systems
 - **G. F. Schuppe** and J. Tumova, "Multi-Agent Strategy Synthesis for LTL Specifications through Assumption Composition," 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE), [[doi]](https://www.doi.org/10.1109/CASE48305.2020.9216991) [[pdf]](./publications/CASE2020_compsynth.pdf)[^1]
 - **G. F. Schuppe** and J. Tumova, "Decentralized Multi-Agent Strategy Synthesis under LTLf Specifications via Exchange of Least-Limiting Advisers," 2021 International Symposium on Multi-Robot and Multi-Agent Systems (MRS), [[doi]](https://doi.org/10.1109/MRS50823.2021.9620561) [[pdf]](./publications/MRS2021_least_limiting_advisers.pdf)[^1]
   - Nominated for **Best Student Paper Finalist**
+- **G. F. Schuppe**, I. Torre, I. Leite and J. Tumova, "Follow my Advice: Assume-Guarantee Approach to Task Planning with Human in the Loop,", 2023 Robotics: Science and Systems (RSS), [[pdf]](./publications/RSS2023_human_advisers.pdf)
 - C. Pek*, **G. F. Schuppe***, F. Esposito, J. Tumova, and D. Kragic, "SpaTiaL: Monitoring and Planning of Robotic Tasks Using Spatio-Temporal Logic Specifications," (under review) PREPRINT available at Research Square [[doi]](https://doi.org/10.21203/rs.3.rs-2430844/v1)
-- **G. F. Schuppe**, I. Torre, I. Leite and J. Tumova, "Follow my Advice: Assume-Guarantee Approach to Task Planning with Human in the Loop," (under review)
 - W. Wang, **G. F. Schuppe** and J. Tumova, "Decentralized Multi-agent Coordination under MITL Tasks and Communication Constraints," 2022 ACM/IEEE 13th International Conference on Cyber-Physical Systems (ICCPS), [[doi]](https://doi.org/10.1109/ICCPS54341.2022.00051) [[pdf]](./publications/ICCPS2022_mitl_decentralized.pdf)[^1]
 
 *The authors contributed equally to this work
