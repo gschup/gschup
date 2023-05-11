@@ -30,7 +30,7 @@ I apply methods from *Formal Verification* to the domain of *Multi-Robot Systems
 
 - [Google Scholar](https://scholar.google.com/citations?user=fHzH7PgAAAAJ)
 - [KTH Profile Page](https://www.kth.se/profile/schuppe/)
-- [Academic CV](./misc/cv.pdf)
+- [Curriculum Vitae](./misc/cv.pdf)
 
 ## Private Interests
 
