@@ -30,10 +30,5 @@ I apply methods from *Formal Verification* to the domain of *Multi-Robot Systems
 ## Links
 
 - [Google Scholar](https://scholar.google.com/citations?user=fHzH7PgAAAAJ)
-- [KTH Profile Page](https://www.kth.se/profile/schuppe/)
 - [Curriculum Vitae](./misc/cv.pdf)
 
-## Private Interests
-
-- Developer and Maintainer of [GGRS](https://github.com/gschup/ggrs), an open source library for networked state synchronization, written in [Rust](https://www.rust-lang.org/).
-- Developing tiny games, available on [itch.io](https://itch.io/profile/gorktheork)
