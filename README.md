@@ -25,6 +25,7 @@ I apply methods from *Formal Verification* to the domain of *Multi-Robot Systems
 ## Posters
 
 - "Decentralized Multi-Agent Strategy Synthesis via Exchange of Least-Limiting Advisers," presented at MRS 2021, [[pdf]](./posters/MRS_2021.pdf)
+- "Follow my Advice: Assume-Guarantee Approach to Task Planning with Human in the Loop," presented at RSS 2023, [[pdf]](./posters/MRS_2021.pdf)
 
 ## Links
 
