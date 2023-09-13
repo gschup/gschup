@@ -12,6 +12,8 @@ I apply methods from *Formal Verification* to the domain of *Multi-Robot Systems
 - **G. F. Schuppe**, I. Torre, I. Leite and J. Tumova, "Follow my Advice: Assume-Guarantee Approach to Task Planning with Human in the Loop,", 2023 Robotics: Science and Systems (RSS), [[pdf]](./publications/RSS2023_human_advisers.pdf)
 - C. Pek*, **G. F. Schuppe***, F. Esposito, J. Tumova, and D. Kragic, "SpaTiaL: Monitoring and Planning of Robotic Tasks Using Spatio-Temporal Logic Specifications," (under review) PREPRINT available at Research Square [[doi]](https://doi.org/10.21203/rs.3.rs-2430844/v1)
 - W. Wang, **G. F. Schuppe** and J. Tumova, "Decentralized Multi-agent Coordination under MITL Specifications and Communication Constraints," 2023 31st Mediterranean Conference on Control and Automation (MED), [[doi]](https://doi.org/10.1109/MED59994.2023.10185907) [[pdf]](./publications/MED2023_mitl_decentralized.pdf)[^1]
+- **G. F. Schuppe** and D. Gurov, "Soundness and Completeness of a Model-Checking Proof System for CTL," arXiv preprint [arXiv:2309.05389](https://arxiv.org/abs/2309.05389), [[doi]](https://doi.org/10.48550/arXiv.2309.05389) [[pdf]](./publications/arxiv_ctl_proof_tableau.pdf)
+
 
 *The authors contributed equally to this work
 
