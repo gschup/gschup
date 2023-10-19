@@ -1,6 +1,6 @@
 # Currently
 
-Working as a Researcher / Data Scientist at [SEBx](https://sebx.io/).
+Working as a Researcher at [SEBx](https://sebx.io/).
 
 # My Research
 
