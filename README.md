@@ -10,7 +10,7 @@ In my thesis, I apply methods from *Formal Verification* to the domain of *Multi
 
 ## Publications
 
-### Thesis
+### Doctoral Thesis
 
 - **G. F. Schuppe**, "Assumptions in Synthesis: An Approach to Multi-Agent Planning from Spatio-Temporal Specifications," Diss. KTH Royal Institute of Technology, 2023, [[pdf]](./publications/thesis.pdf)
 
