@@ -27,6 +27,8 @@ In my thesis, I apply methods from *Formal Verification* to the domain of *Multi
 
 - W. Wang, **G. F. Schuppe** and J. Tumova, "Decentralized Multi-agent Coordination under MITL Specifications and Communication Constraints," 2023 31st Mediterranean Conference on Control and Automation (MED), [[doi]](https://doi.org/10.1109/MED59994.2023.10185907) [[pdf]](./publications/MED2023_mitl_decentralized.pdf)
 
+- S. Saeidian, A. Yavuzyılmaz, L. Grosse, G. F. Schuppe, and T. J. Oechtering. "A Tight Context-aware Privacy Bound for Histogram Publication." IEEE Signal Processing Letters (2025). [[doi]](https://doi.org/10.1109/LSP.2025.3620776)
+
 - **G. F. Schuppe** and D. Gurov, "Soundness and Completeness of a Model-Checking Proof System for CTL," arXiv preprint [arXiv:2309.05389](https://arxiv.org/abs/2309.05389), [[doi]](https://doi.org/10.48550/arXiv.2309.05389) [[pdf]](./publications/arxiv_ctl_proof_tableau.pdf)
 
 
